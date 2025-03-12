@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Adrien Demaegdt a Data Analsyt/Engineer Freelance.
+- 👋 Hi, I’m Adrien Demaegdt a Data Analyst/Engineer Freelance.
 
 - 👀 I’m interested in data science, ecology and entrepreneurship. 
 - 🌱 I’m currently learning LLM python librairies: LangChain etc 
